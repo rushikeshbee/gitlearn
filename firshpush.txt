@@ -28,3 +28,8 @@ When I use any git command I get a "fatal: bad config file line"
 fatal: bad config line 3 in file C:/Users/13472/.gitconfig
 29 Sept 2022
 More results from stackoverflow.com
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+another add
