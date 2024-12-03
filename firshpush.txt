@@ -1,0 +1,30 @@
+git init fatal: bad config line 1 in file C:/Users/mypc/OneDrive ...
+2 Aug 2022
+fatal: bad config line 12 in file /Users : r/git - Reddit
+6 Dec 2022
+r/git on Reddit: "fatal: bad config line X in file .gitconfig" when I ...
+31 Jul 2019
+Help with 'fatal: bad config file' for a git newbie. - Reddit
+22 Jan 2016
+More results from www.reddit.com
+
+GitHub error "fatal: bad config file line 1 in .git ...
+
+Stack Overflow
+https://stackoverflow.com › questions › github-error-fat...
+I solved it by finding .git/config file on my laptop using Windows search , and deleting it. Then I deleted content of my github folder and cloned the repo ...
+9 answers
+ 
+·
+ 
+Top answer: 
+I solved this by • open .git/config file • clear all the NULL values in the file • ...
+Bad git config file .git/config - Stack Overflow
+1 Mar 2012
+fatal: bad config file line 1 in /home/trx/.gitconfig - Stack Overflow
+14 Feb 2013
+When I use any git command I get a "fatal: bad config file line"
+2 May 2016
+fatal: bad config line 3 in file C:/Users/13472/.gitconfig
+29 Sept 2022
+More results from stackoverflow.com
